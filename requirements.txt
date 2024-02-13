@@ -1,6 +1,5 @@
 altair
 pandas
-python>=3.10,<4.0
 langchain>=0.1.0
 openai>=1.6.1
 sentence-transformers>=2.2.2, <3.0
